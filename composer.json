@@ -1,0 +1,9 @@
+{
+    "name": "youtube/youtube",
+    "type": "project",
+    "require": {
+        "google/apiclient": "^2.0@dev",
+      "ext-json": "*"
+    },
+    "minimum-stability": "dev"
+}
